@@ -1,0 +1,53 @@
+* { margin: 20; padding: 0; box-sizing: border-box; }
+body {
+  font-size: 18px;
+  color: #333;
+}
+p {
+  line-height: 1.4em;
+}
+
+
+
+h1{
+    display:table;
+    margin: 0 auto;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #996BA4;
+    text-shadow: 1px 1px 1px #333;
+    color: #FFF;
+    background-color: #232323;
+    text-shadow: #fce4ed,#ffe8cc;
+    text-shadow: 0 0 10px #FFF, 0 0 15px #ff18b2, 0 0 20px #f7b0ca, 0 0 27px #f7b0ca, 0 0 35px #ffe8cc;
+    box-shadow: 5px 5px 11px 11px #996BA4;
+}
+
+textarea{
+    display: block;
+    border: outset 5px #996BA4;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(to right,#f7b0ca,#ffe8cc);
+    outline: none; 
+    resize: none;
+    width: 400px;
+    height: 100px;
+}
+
+button{
+    block-size: 40px;
+    border-radius: 15px;
+    border: none;
+    display: block;
+    margin: 0 auto;
+    font-weight: bold;
+color: #ffe8cc;
+background-color: #996ba4;
+box-shadow: 5px 5px 9px 9px #f7b0ca;
+
+}
